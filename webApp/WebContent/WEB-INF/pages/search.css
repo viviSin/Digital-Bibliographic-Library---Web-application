@@ -1,0 +1,13 @@
+<!-- this is for search.jsp-->
+<style>
+body {
+    font-family: "Lato", sans-serif;
+}
+.resultTable table, .resultTable th,.resultTable td {
+    border: 1px solid grey;
+}
+</style>
+
+
+
+
